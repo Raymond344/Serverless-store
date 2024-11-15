@@ -1,0 +1,11 @@
+flask
+Flask-WTF
+Jinja2
+google-cloud-storage
+google-cloud-firestore
+google-cloud-pubsub
+google-cloud-trace
+firebase-admin
+opencensus
+
+
